@@ -1,6 +1,4 @@
-![image](https://github.com/phamtrongsang11/Go-Online-Template/assets/101312630/33242c69-8edc-428f-9ceb-f6ed9ac30680)
-![image](https://github.com/phamtrongsang11/Go-Online-Template/assets/101312630/8a2e158f-2286-4020-981b-d8b23806a1b7)
-# Go-Online-Template
+![image](https://github.com/phamtrongsang11/Go-Online-Template/assets/101312630/8a2e158f-2286-4020-981b-d8b23806a1b7)# Go-Online-Template
 
 A template home page of Go Online Shop create by HTML, CSS, Javascript
 
